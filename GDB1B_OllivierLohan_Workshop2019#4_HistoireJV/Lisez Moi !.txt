@@ -1,0 +1,33 @@
+												PERPLEXITY OF WESTERN SYMBOLS
+											   "a trip through portable entertainment" 
+
+ORDRE DES NIVEAUX
+------------------
+
+STAGE 1 : LoCaT/Land of Cheap and Tune 
+
+STAGE 2 : LoCaF/Land of Color and Freeze
+
+STAGE 3 : LoCaB/ Land of Challenge and Bullets
+
+
+EXPOSITION
+-----------
+
+STAGE 1 : Niveau introductif, très peu de projectiles. De par sa simplicité visuel, ce niveau fait référence à
+l'époque Monocrhome des consoles portables (Microvision, Game Boy), la difficulté se veut relativement basse pour
+laisser le temps au joueur d'identifier la différence entre projectile/bonus.
+Score pour passer au niveau 2 = 2500 pt
+
+
+STAGE 2 : Niveau intermédiaire, projectiles nombreux mais peux rapide. Ce niveau voit l'arrivé des couleurs, mais
+garde une certaine simplicité (Game Gear, Game Boy Color, etc), la difficulté augmente mais les projectiles/le bonus
+sont plus identifiables.
+Score pour passer au niveau 3 = 3500 pt
+
+STAGE 3 : Niveau final, beaucoup de projectiles rapides. C'est le dernier niveau du jeu, les sprites sont plus détaillés
+et la vitesse du jeu augmente (Game Boy Advance, DS, PSP), ce dernier niveau se veut un challenge(peut être un peu injuste ?).
+Le but de ce niveau est d'amasser le plus de points possibles.
+C'est la fin de la progression, à ce moment, le joueur peut décider d'arrêter de jouer (arrivé à la fin de la progression),
+ou tenter d'augmenter son score le plus longtemps possible.
+ 
